@@ -64,4 +64,4 @@ console.log("Nilai x setelah pangkat 2:", x);
 console.log("\n------------------------------");
 console.log("     Operasi Perbandingan");  
 console.log("------------------------------");
-console.log(false || false); // false
+console.log(false || false); // false   
